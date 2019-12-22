@@ -47,6 +47,7 @@
 -   [Tilix](https://github.com/gnunn1/tilix)  — Terminal emulator
 -   [Terminator](https://gnometerminator.blogspot.my/p/introduction.html)  Terminal emulator
 -   [tmux](https://tmux.github.io/)  and  [tmuxp](https://github.com/tmux-python/tmuxp)  — Terminal multiplexer.
+-   [Bash-It](https://github.com/Bash-it/bash-it)
 
 
 ### Command line utilities
