@@ -100,6 +100,9 @@
 -   [Apache](http://www.apache.org/)  Classic WebServer (recipe supports both prefork and worker models)
 -   [Nginx](http://nginx.org/)  Compact effective webserver for highload
 
+### Server & Network
+-   [Remmina](https://remmina.org/)  Remote access screen and file sharing to your desktop.Permalink
+
 ### Virtualization & Infrastructure
 
 -   [Docker](https://www.docker.com/)  Necessary docker components to build and run docker containers locally
